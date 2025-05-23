@@ -2,7 +2,7 @@ package abrill;
 
 import java.util.Scanner;
 
-public class ex4_vetores {
+public class Ex6_vetores {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
